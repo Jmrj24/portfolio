@@ -1,0 +1,9 @@
+# Local Netlify folder
+*.db
+*.py[cod]
+.netlify
+.venv
+.web
+__pycache__/
+assets/external/
+public/

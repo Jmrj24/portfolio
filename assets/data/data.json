@@ -1,0 +1,126 @@
+{
+    "title": "Jeferson José Rosales Medina | Portafolio",
+    "description": "Soy Jeferson, programador Java Backend.",
+    "image": "/avatar1.JPG",
+    "avatar": "/avatar1.JPG",
+    "name": "Jeferson José Rosales Medina",
+    "skill": "Java Backend",
+    "location": "Argentina, Buenos Aires",
+    "media": {
+        "email": "jeferson24j@gmail.com",
+        "cv": "/data/cv.pdf",
+        "github": "https://github.com/Jmrj24",
+        "likedin": "https://www.linkedin.com/in/jeferson-rosales-24310595ing"
+    },
+    "about": "Soy un desarrollador Backend especializado en Java, con experiencia avanzada en el uso de Spring Framework, particularmente en Spring Boot y Spring Cloud. He trabajado en la creación de APIs RESTful robustas y escalables, aplicando principios de microservicios para desarrollar aplicaciones distribuidas de alto rendimiento. A través de mis proyectos personales y cursos completados, he adquirido un sólido conocimiento en la implementación de soluciones como Spring Cloud Config, Spring Cloud Gateway, Eureka y Spring Cloud OpenFeign para mejorar la comunicación entre microservicios, gestión de configuración y escalabilidad. Además, integro tecnologías como JPA e Hibernate para la persistencia de datos. Mi enfoque está en diseñar sistemas resilientes y eficientes, siempre con un aprendizaje continuo sobre nuevas herramientas y mejores prácticas.",
+    "technologies": [
+        {
+            "icon": "devicon-java-plain",
+            "name": "Java"
+        },
+        {
+            "icon": "devicon-spring-original",
+            "name": "Spring"
+        },
+        {
+            "icon": "devicon-hibernate-plain",
+            "name": "Hibernate"
+        },
+        {
+            "icon": "devicon-mysql-original",
+            "name": "MYSQL"
+        },
+        {
+            "icon": "devicon-json-plain",
+            "name": "JSON"
+        },
+        {
+            "icon": "devicon-docker-plain",
+            "name": "Docker"
+        },
+        {
+            "icon": "devicon-postman-plain",
+            "name": "Postman"
+        },
+        {
+            "icon": "devicon-git-plain",
+            "name": "Git"
+        },
+        {
+            "icon": "devicon-maven-plain",
+            "name": "Maven"
+        }
+    ],
+    "projects": [
+        {
+            "icon": "shopping-cart",
+            "title": "Desarrollo Microservicios en Java con Spring Cloud",
+            "subtitle": "Desarrollo Personal",
+            "description": "Desarrollé una API sobre una tienda online de electrodomésticos utilizando una arquitectura de microservicios e implementando distintos patrones de diseño. El sistema está diseñado para ofrecer una experiencia de compra fluida y eficiente, con tres microservicios interconectados para gestionar productos, carritos de compras y ventas.",
+            "technologies": [
+                {
+                    "icon": "devicon-java-plain",
+                    "name": "Java"
+                },
+                {
+                    "icon": "devicon-spring-original",
+                    "name": "Spring"
+                },
+                {
+                    "icon": "devicon-mysql-original",
+                    "name": "MYSQL"
+                }
+            ],
+            "image": "",
+            "github": "https://github.com/Jmrj24/micro_tiendaElectronica"
+        },
+        {
+            "icon": "shopping-bag",
+            "title": "Desarrollo De API En Java Con Spring Boot",
+            "subtitle": "Desarrollo Personal",
+            "description": "API para automatizar la gestión de ventas y stock de productos en una tienda. La aplicación permite registrar ventas, gestionar productos y controlar el inventario de manera eficiente. El sistema está diseñado como una API RESTful.",
+            "technologies": [
+                {
+                    "icon": "devicon-java-plain",
+                    "name": "Java"
+                },
+                {
+                    "icon": "devicon-spring-original",
+                    "name": "Spring"
+                },
+                {
+                    "icon": "devicon-mysql-original",
+                    "name": "MYSQL"
+                }
+            ],
+            "image": "",
+            "github": "https://github.com/Jmrj24/tienda_ventas_app"
+        }
+    ],
+    "training": [
+        {
+            "icon": "backpack",
+            "title": "Microservicios con Spring Cloud",
+            "subtitle": "Todocodeacademy",
+            "description": "Aprendí a desarrollar aplicaciones distribuidas utilizando Spring Cloud para gestionar servicios, configuración centralizada y comunicación entre microservicios. Trabajé con herramientas como Spring Cloud Netflix Eureka, Spring Cloud Config, Spring Cloud Gateway, Spring Cloud OpenFeign y balanceo de carga para mejorar la escalabilidad, resiliencia y mantenimiento de las aplicaciones.",
+            "date": "Octubre 2024",
+            "certificate": "https://todocodeacademy.com/certificate/len/"
+        },
+        {
+            "icon": "backpack",
+            "title": "Desarrollo de APIs en Java con Spring Boot",
+            "subtitle": "Todocodeacademy",
+            "description": "Aprendí a construir aplicaciones Java robustas y escalables, aprovechando la simplicidad de su configuración automática. Aprendí a crear APIs RESTful, gestionar dependencias y simplificar el desarrollo mediante la inyección de dependencias y el uso de anotaciones.",
+            "date": "Septiembre 2024",
+            "certificate": "https://todocodeacademy.com/certificate/spring-boot-9yu/"
+        },
+        {
+            "icon": "graduation-cap",
+            "title": "Ingeniería de Sistemas",
+            "subtitle": "Universidad Nacional Experimental Politécnica de la Fuerza Armada (UNEFA)",
+            "description": "",
+            "date": "Diciembre 2018",
+            "certificate": ""
+        }        
+    ]
+}
