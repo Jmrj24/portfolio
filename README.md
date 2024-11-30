@@ -1,6 +1,6 @@
 # 🌟 Portafolio Personal
 
-¡Bienvenido a mi portafolio! Este proyecto está basado en la plantilla minimalista desarrollada por [mouredev](https://github.com/mouredev/portafolio-template), la cual personalicé para destacar mis habilidades y proyectos como desarrollador Backend especializado en Java.
+¡Bienvenido a mi portafolio! Este proyecto está basado en la plantilla minimalista desarrollada por [mouredev](https://github.com/mouredev), la cual personalicé para destacar mis habilidades y proyectos como desarrollador Backend especializado en Java.
 
 🔗 **[Ver Portafolio en Vivo](https://github.com/Jmrj24/portfolio)**
 
@@ -37,9 +37,9 @@ Este portafolio está diseñado para presentar de manera profesional:
 
 1. **Clona este repositorio:**
    git clone https://github.com/Jmrj24/portfolio.git
-2. **Configura el entorno:** Sigue las instrucciones de la plantilla original en mouredev/portafolio-template.
+2. **Configura el entorno:** Sigue las instrucciones de la plantilla original en [mouredev/portafolio-template](https://github.com/mouredev/portafolio-template).
 3. **Personaliza:** Edita el archivo JSON para modificar el contenido según tus necesidades.
 4. **Ejecuta:** Despliega el portafolio en un servidor local o en la nube.
 
 ## 🙌 Agradecimientos
-Un agradecimiento especial a mouredev por proporcionar esta increíble plantilla como base para mi portafolio.
+Un agradecimiento especial a [mouredev](https://github.com/mouredev) por proporcionar esta increíble plantilla como base para mi portafolio.
