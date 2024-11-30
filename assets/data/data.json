@@ -10,7 +10,7 @@
         "email": "jeferson24j@gmail.com",
         "cv": "/data/cv.pdf",
         "github": "https://github.com/Jmrj24",
-        "likedin": "https://www.linkedin.com/in/jeferson-rosales-24310595ing"
+        "likedin": "https://www.linkedin.com/in/jmrj24/"
     },
     "about": "Soy un desarrollador Backend especializado en Java, con experiencia avanzada en el uso de Spring Framework, particularmente en Spring Boot y Spring Cloud. He trabajado en la creación de APIs RESTful robustas y escalables, aplicando principios de microservicios para desarrollar aplicaciones distribuidas de alto rendimiento. A través de mis proyectos personales y cursos completados, he adquirido un sólido conocimiento en la implementación de soluciones como Spring Cloud Config, Spring Cloud Gateway, Eureka y Spring Cloud OpenFeign para mejorar la comunicación entre microservicios, gestión de configuración y escalabilidad. Además, integro tecnologías como JPA e Hibernate para la persistencia de datos. Mi enfoque está en diseñar sistemas resilientes y eficientes, siempre con un aprendizaje continuo sobre nuevas herramientas y mejores prácticas.",
     "technologies": [
@@ -52,6 +52,36 @@
         }
     ],
     "projects": [
+        {
+            "icon": "book-open-check",
+            "title": "Sistema de Gestión de Tareas con Microservicios",
+            "subtitle": "Desarrollo Personal",
+            "description": "Desarrollé un sistema escalable y resiliente para gestionar usuarios y tareas utilizando una arquitectura de microservicios. Implementé API Gateway, Eureka para el descubrimiento de servicios, y Circuit Breaker para garantizar la continuidad del sistema. Las tecnologías utilizadas incluyen Java, Spring Boot, Spring Cloud, MySQL y Docker, y el despliegue fue realizado en Railway. El proyecto destaca por su escalabilidad, resiliencia y capacidad para manejar fallos y balancear la carga eficientemente.",
+            "technologies": [
+                {
+                    "icon": "devicon-java-plain",
+                    "name": "Java"
+                },
+                {
+                    "icon": "devicon-spring-original",
+                    "name": "Spring"
+                },
+                {
+                    "icon": "devicon-mysql-original",
+                    "name": "MYSQL"
+                },
+                {
+                    "icon": "devicon-docker-plain",
+                    "name": "Docker"
+                },
+                {
+                    "icon": "devicon-railway-original",
+                    "name": "Railway"
+                }
+            ],
+            "image": "",
+            "github": "https://github.com/Jmrj24/admin_tareas"
+        },
         {
             "icon": "shopping-cart",
             "title": "Desarrollo Microservicios en Java con Spring Cloud",
