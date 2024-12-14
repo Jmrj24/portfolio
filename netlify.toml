@@ -1,3 +1,13 @@
 [build]
-command = "reflex export"
+command = """
+  curl https://pyenv.run | bash
+  export PATH=$HOME/.pyenv/bin:$PATH
+  eval "$(pyenv init --path)"
+  eval "$(pyenv virtualenv-init -)"
+  pyenv install 3.9.16
+  pyenv global 3.9.16
+  python --version
+  pip install --upgrade pip
+  reflex export
+"""
 publish = ".web/_static"
