@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi portafolio! Este proyecto está basado en la plantilla minimalista desarrollada por [mouredev](https://github.com/mouredev), la cual personalicé para destacar mis habilidades y proyectos como desarrollador Backend especializado en Java.
 
-🔗 **[Ver Portafolio en Vivo](https://portfolio-jeferson.reflex.run/)**
+🔗 **[Ver Portafolio en Vivo](https://portfolio-jmrj24.netlify.app/)**
 
 ---
 
