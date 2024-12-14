@@ -1,0 +1,3 @@
+[build]
+command = "reflex export"
+publish = ".web/_static"

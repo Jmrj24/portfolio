@@ -2,8 +2,12 @@
 *.db
 *.py[cod]
 .netlify
+.reflex/
 .venv
+.venv/
 .web
+.web/
 __pycache__/
 assets/external/
+env/
 public/
