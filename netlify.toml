@@ -1,3 +1,6 @@
 [build]
 command = "reflex init && reflex export"
 publish = ".web/_static"
+
+[build.environment]
+  PYTHON_VERSION = "3.9"
