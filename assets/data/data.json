@@ -12,7 +12,7 @@
         "github": "https://github.com/Jmrj24",
         "likedin": "https://www.linkedin.com/in/jmrj24/"
     },
-    "about": "Soy un desarrollador Backend especializado en Java, con experiencia avanzada en el uso de Spring Framework, particularmente en Spring Boot y Spring Cloud. He trabajado en la creación de APIs RESTful robustas y escalables, aplicando principios de microservicios para desarrollar aplicaciones distribuidas de alto rendimiento. A través de mis proyectos personales y cursos completados, he adquirido un sólido conocimiento en la implementación de soluciones como Spring Cloud Config, Spring Cloud Gateway, Eureka y Spring Cloud OpenFeign para mejorar la comunicación entre microservicios, gestión de configuración y escalabilidad. Además, integro tecnologías como JPA e Hibernate para la persistencia de datos. Mi enfoque está en diseñar sistemas resilientes y eficientes, siempre con un aprendizaje continuo sobre nuevas herramientas y mejores prácticas.",
+    "about": "Soy un desarrollador Backend apasionado por Java y el mundo del Spring Framework. Me encanta trabajar con Spring Boot y Spring Cloud para crear APIs RESTful y sistemas de microservicios que se adaptan a las necesidades modernas. \nMe gradué hace 7 años, y la verdad es que mi camino tomó una pausa antes de retomar el estudio por mi cuenta hace 2 años. Desde entonces, me he enfocado en profundizar mis conocimientos y en aprender haciendo. Durante este tiempo, he trabajado en proyectos personales y completado cursos que me han permitido dominar herramientas como Spring Cloud Config, Spring Cloud Gateway, Eureka y Spring Cloud OpenFeign, logrando que la comunicación entre microservicios sea más fluida y escalable. Además, tengo experiencia con JPA e Hibernate para manejar la persistencia de datos de forma eficiente. \nPara mí, cada reto es una oportunidad para aprender y crecer, y siempre estoy buscando mejorar y conocer nuevas herramientas que me ayuden a diseñar sistemas resilientes y eficientes. Estoy listo para enfrentar nuevos desafíos y aportar lo mejor de mí al desarrollo Backend.",
     "technologies": [
         {
             "icon": "devicon-java-plain",
@@ -83,6 +83,36 @@
             "github": "https://github.com/Jmrj24/admin_tareas"
         },
         {
+            "icon": "book-open-check",
+            "title": "Sistema de Gestión de Eventos y Participantes",
+            "subtitle": "Desarrollo Personal",
+            "description": "Este proyecto permite gestionar eventos y participantes en una plataforma centralizada. Con una arquitectura basada en JPA, se implementó una relación de muchos a muchos entre los participantes y los eventos, lo que permite registrar y asociar a los participantes con múltiples eventos. La solución está diseñada para manejar de manera eficiente la inscripción de participantes y la gestión de eventos, todo con un enfoque en la flexibilidad y escalabilidad. El sistema también permite verificar la existencia de registros y actualizar automáticamente la base de datos al gestionar las inscripciones.",
+            "technologies": [
+                {
+                    "icon": "devicon-java-plain",
+                    "name": "Java"
+                },
+                {
+                    "icon": "devicon-spring-original",
+                    "name": "Spring"
+                },
+                {
+                    "icon": "devicon-mysql-original",
+                    "name": "MYSQL"
+                },
+                {
+                    "icon": "devicon-docker-plain",
+                    "name": "Docker"
+                },
+                {
+                    "icon": "devicon-railway-original",
+                    "name": "Railway"
+                }
+            ],
+            "image": "",
+            "github": "https://github.com/Jmrj24/Sistema-de-Gestion-de-Eventos-y-Participantes"
+        },
+        {
             "icon": "shopping-cart",
             "title": "Desarrollo Microservicios en Java con Spring Cloud",
             "subtitle": "Desarrollo Personal",
@@ -95,6 +125,10 @@
                 {
                     "icon": "devicon-spring-original",
                     "name": "Spring"
+                },
+                {
+                    "icon": "devicon-docker-plain",
+                    "name": "Docker"
                 },
                 {
                     "icon": "devicon-mysql-original",
@@ -117,6 +151,10 @@
                 {
                     "icon": "devicon-spring-original",
                     "name": "Spring"
+                },
+                {
+                    "icon": "devicon-docker-plain",
+                    "name": "Docker"
                 },
                 {
                     "icon": "devicon-mysql-original",
@@ -143,6 +181,38 @@
             "description": "Aprendí a construir aplicaciones Java robustas y escalables, aprovechando la simplicidad de su configuración automática. Aprendí a crear APIs RESTful, gestionar dependencias y simplificar el desarrollo mediante la inyección de dependencias y el uso de anotaciones.",
             "date": "Septiembre 2024",
             "certificate": "https://todocodeacademy.com/certificate/spring-boot-9yu/"
+        },
+        {
+            "icon": "backpack",
+            "title": "Java Web con JSP y JPA",
+            "subtitle": "Todocodeacademy",
+            "description": "Aprendí sobre el mundo Web de Java EE (Enterprise Edition), trabajando con tecnologías como servlets, JSP combinado con HTML y CSS, sesiones, protocolo HTTP y la Arquitectura Cliente-Servidor",
+            "date": "Agosto 2024",
+            "certificate": "https://todocodeacademy.com/certificate/certificado-java-web-qza/"
+        },
+        {
+            "icon": "backpack",
+            "title": "Programación Orientada a Objetos con Java",
+            "subtitle": "Todocodeacademy",
+            "description": "El curso me enseñó sobre la Programación Orientada a Objetos, comprendiendo conceptos como Clases, Objetos, Herencia, Polimorfismo, Clases Abstractas, Interfaces, Collections entre otros.",
+            "date": "Junio 2024",
+            "certificate": "https://todocodeacademy.com/certificate/ypp/"
+        },
+        {
+            "icon": "backpack",
+            "title": "Git y GitHub desde cero",
+            "subtitle": "Todocodeacademy",
+            "description": "He aprendido en el Curso de Git y GitHub los conceptos necesarios para manejar repositorios remotos mediante Git y crear, administrar, compartir y actualizar repositorios remotos mediante GitHub.",
+            "date": "Junio 2024",
+            "certificate": "https://todocodeacademy.com/certificate/s5g/"
+        },
+        {
+            "icon": "backpack",
+            "title": "Bases de Datos relacionales con MySQL",
+            "subtitle": "Todocodeacademy",
+            "description": "En el Curso de Bases de Datos Relacionales (con MySQL) aprendí los conceptos fundamentales para crear, modelar y realizar consultas y subconsultas SQL sobre bases de datos relacionales.",
+            "date": "Mayo 2024",
+            "certificate": "https://todocodeacademy.com/certificate/yme/"
         },
         {
             "icon": "graduation-cap",
