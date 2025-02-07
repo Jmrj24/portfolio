@@ -79,7 +79,7 @@
                     "name": "Railway"
                 }
             ],
-            "image": "",
+            "image": "AdminTareas.png",
             "github": "https://github.com/Jmrj24/admin_tareas"
         },
         {
@@ -109,7 +109,7 @@
                     "name": "Railway"
                 }
             ],
-            "image": "",
+            "image": "RailwayCapturaSgep.png",
             "github": "https://github.com/Jmrj24/Sistema-de-Gestion-de-Eventos-y-Participantes"
         },
         {
@@ -135,7 +135,7 @@
                     "name": "MYSQL"
                 }
             ],
-            "image": "",
+            "image": "TiendaElectro.png",
             "github": "https://github.com/Jmrj24/micro_tiendaElectronica"
         },
         {
@@ -161,7 +161,7 @@
                     "name": "MYSQL"
                 }
             ],
-            "image": "",
+            "image": "TiendaVentas.png",
             "github": "https://github.com/Jmrj24/tienda_ventas_app"
         }
     ],
