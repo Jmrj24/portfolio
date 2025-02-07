@@ -12,7 +12,7 @@
         "github": "https://github.com/Jmrj24",
         "likedin": "https://www.linkedin.com/in/jmrj24/"
     },
-    "about": "Soy un desarrollador Backend apasionado por Java y el mundo del Spring Framework. Me encanta trabajar con Spring Boot y Spring Cloud para crear APIs RESTful y sistemas de microservicios que se adaptan a las necesidades modernas. \nMe gradué hace 7 años, y la verdad es que mi camino tomó una pausa antes de retomar el estudio por mi cuenta hace 2 años. Desde entonces, me he enfocado en profundizar mis conocimientos y en aprender haciendo. Durante este tiempo, he trabajado en proyectos personales y completado cursos que me han permitido dominar herramientas como Spring Cloud Config, Spring Cloud Gateway, Eureka y Spring Cloud OpenFeign, logrando que la comunicación entre microservicios sea más fluida y escalable. Además, tengo experiencia con JPA e Hibernate para manejar la persistencia de datos de forma eficiente. \nPara mí, cada reto es una oportunidad para aprender y crecer, y siempre estoy buscando mejorar y conocer nuevas herramientas que me ayuden a diseñar sistemas resilientes y eficientes. Estoy listo para enfrentar nuevos desafíos y aportar lo mejor de mí al desarrollo Backend.",
+    "about": "Soy desarrollador Backend apasionado por Java y Spring Framework, especializado en APIs RESTful y microservicios con Spring Boot y Spring Cloud. Después de graduarme hace 7 años, mi camino tomó una pausa antes de retomar mis estudios hace 2 años, desde entonces he estado enfocándome en aprender de forma práctica. He trabajado en proyectos personales, dominando herramientas como Spring Cloud Config, Gateway, Eureka y OpenFeign, y tengo experiencia con JPA e Hibernate. Siempre busco mejorar y enfrentar nuevos desafíos, con el objetivo de diseñar sistemas eficientes y resilientes.",
     "technologies": [
         {
             "icon": "devicon-java-plain",
@@ -86,7 +86,7 @@
             "icon": "book-open-check",
             "title": "Sistema de Gestión de Eventos y Participantes",
             "subtitle": "Desarrollo Personal",
-            "description": "Este proyecto permite gestionar eventos y participantes en una plataforma centralizada. Con una arquitectura basada en JPA, se implementó una relación de muchos a muchos entre los participantes y los eventos, lo que permite registrar y asociar a los participantes con múltiples eventos. La solución está diseñada para manejar de manera eficiente la inscripción de participantes y la gestión de eventos, todo con un enfoque en la flexibilidad y escalabilidad. El sistema también permite verificar la existencia de registros y actualizar automáticamente la base de datos al gestionar las inscripciones.",
+            "description": "Este proyecto gestiona eventos y participantes en una plataforma centralizada con arquitectura JPA. Implementa una relación de muchos a muchos entre participantes y eventos, permitiendo asociar múltiples eventos a cada participante. Está diseñado para manejar eficientemente las inscripciones y la gestión de eventos, con enfoque en flexibilidad y escalabilidad. Además, verifica la existencia de registros y actualiza automáticamente la base de datos al gestionar inscripciones.",
             "technologies": [
                 {
                     "icon": "devicon-java-plain",
